@@ -1,0 +1,4 @@
+<IfModule mod_headers.c>
+  Header set Access-Control-Allow-Origin "*"
+  header set Access-Control-Allow-Methods: "POST"
+</IfModule>
