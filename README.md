@@ -8,7 +8,7 @@
 ## How it work
 react app consume api from fuel to implement products CRUD and User Anthentication
 
-## to disable cors on chrome
+## to open chrome with cors disabled
 ### press win+R and paste the command below
 ***chrome.exe --user-data-dir="C:/Chrome dev session" --disable-web-security***
 
